@@ -27,6 +27,11 @@ Startup logs.
 
 ## spring-cloud-gateway
 
+Simple http client: spring security user password: Test234
+```
+https://localhost:8443/index.html
+```
+
 Discovery service.
 
 ```
